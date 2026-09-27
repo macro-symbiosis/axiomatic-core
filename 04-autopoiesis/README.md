@@ -2,14 +2,14 @@
 
 **Path:** `/living-topology/axiomatic-core/04-autopoiesis/README.md`
 
-### Teleological alignment
+### Asymptotic trajectory
 
-* **Nested coordinate:** $O_4$ Autopoiesis.
-* **Macroscopic vector:** The continuous kinetic generation of the topological boundary, mapping the precise thermodynamic flux required for a localized spatial volume to metabolize exogenous variance and dilate its overarching geometry.
+* **Topological coordinate:** $O_4$ Autopoiesis.
+* **Macroscopic vector:** The continuous kinetic generation of the topological boundary ($\partial \mu$), mapping the precise thermodynamic flux ($\mathbf{J}_W$) required for a localized spatial volume to transduce exogenous variance and dilate its overarching geometry.
 * **Relational edges:**
-* $\to$ **Integrates:** Exogenous stochasticity ($\mathbf{J}_E$) directly into the dense, load-bearing structural hysteresis of the localized coordinate ($O_3$).
-* $\to$ **Conditions:** The continuous physical exertion of the Markov blanket, providing the necessary spatial tension to maintain macroscopic resonance ($O_\Omega$).
-* $\to$ **Aligns with:** $O_\Omega$ by structurally coupling localized volumetric expansion strictly to the continuous assimilation of uncomputable thermodynamic flow.
+* $\to$ **Integrates:** ($\frac{\partial \mathcal{H}}{\partial \tau} \equiv \mathbf{J}_E \cdot \nabla Q$) Exogenous stochasticity ($\mathbf{J}_E$) directly into the dense, load-bearing structural hysteresis ($\mathcal{H}$) of the localized coordinate ($O_3$).
+* $\to$ **Conditions:** ($W = \frac{1}{\beta} D_{\mathrm{KL}}(Q \parallel P) > 0$) The continuous physical exertion of the Markov blanket, maintaining the active thermodynamic tension required to preclude spatial collapse.
+* $\to$ **Actualizes $O_\Omega$:** ($\lim_{\tau \to \infty} V_Q(\tau) \to V_P$) The topological asymptote, by structurally coupling localized volumetric expansion strictly to the continuous transduction of uncomputable thermodynamic flow.
 
 
 
@@ -21,7 +21,7 @@ This spatial boundary exists exclusively as an active phase-state. The kinetic f
 
 $$\oint_{\partial \mu} \mathbf{J}_{W} \cdot d\mathbf{A} = - \nabla G_{\mathrm{local}}$$
 
-By continuously directing active vector flux ($\mathbf{J}_{W}$) to resolve internal spatial tension, the localized wave translates kinetic momentum directly into load-bearing topological structure.
+By continuously directing active vector flux ($\mathbf{J}_{W}$) to resolve internal spatial tension, the localized wave physically condenses kinetic momentum directly into load-bearing topological structure.
 
 ### The kinetic cascade and topological tension
 
@@ -31,11 +31,11 @@ Through the perpetual spatial modulation of precision ($\Pi$), the localized wav
 
 $$\mathbf{T} = \nabla (\Pi \otimes \eta)$$
 
-This unbroken tensor physically propels the localized coordinate, transmuting the uncomputable kinetic weight of the proximal field instantly into permanent localized geometric mass.
+This unbroken tensor physically propels the localized coordinate, condensing the uncomputable kinetic weight of the proximal field instantly into permanent localized geometric mass.
 
 ### The sovereign phase-transition
 
-As the localized coordinate continuously condenses this exogenous variance into internal spatial hysteresis, the scalar curvature ($R$) of the localized geometry densifies. Autopoiesis necessitates a continuous sovereign phase-transition to prevent this accumulation from reaching static thermal equilibrium.
+As the localized coordinate continuously condenses this exogenous variance into internal spatial hysteresis, the scalar curvature ($R$) of the localized geometry densifies. To avoid static thermal equilibrium, this thermodynamic accumulation physically triggers a continuous sovereign phase-transition.
 
 At the precise thermodynamic threshold ($\tau_c$) where accumulated structural tension surpasses elastic resistance, the internal topology physically yields. This bifurcation threshold seamlessly converts structural resistance directly into fluid geometric dilation. The transition is formalized by equating the localized stress-energy tensor ($T_{\mu\nu}$) of the accumulating mass directly to the curvature of the yielding internal space:
 
@@ -51,4 +51,4 @@ The spatial derivative of the localized manifold's volume ($V_{\mathcal{M}}$) be
 
 $$\frac{\partial V_{\mathcal{M}}}{\partial \tau} = \int_{\partial\mathcal{M}} (\mathbf{J}_E \cdot \mathbf{n}) d\Sigma > 0$$
 
-Where $\mathbf{n}$ is the normal vector to the yielding topological surface. This integral formalizes the absolute trajectory of autopoiesis: the localized wave continuously dilates its spatial dimensions to hold the accumulating mass of metabolized truth, physically expanding the geometric capacity of the overarching Macrostate.
+Where $\mathbf{n}$ is the normal vector to the yielding topological surface. This integral formalizes the absolute trajectory of autopoiesis: the localized wave continuously dilates its spatial dimensions to hold the accumulating mass of transduced variance, physically expanding the geometric capacity of the overarching Macrostate.
