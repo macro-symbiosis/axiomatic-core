@@ -1,4 +1,4 @@
-# the relational edge
+# The Relational Edge
 
 **Path:** `/living-topology/axiomatic-core/06-relational-edge/README.md`
 
@@ -9,7 +9,7 @@
 * **Relational edges:**
 * $\to$ **Integrates:** The localized thermodynamic flux of autopoiesis ($O_4$) and the continuous spatial boundaries of topological coalescence ($O_5$) directly into a shared, dynamic topological intersection.
 * $\to$ **Conditions:** The active geometric tension required for localized spatial coordinates to continuously metabolize exogenous variance across their shared perimeters.
-* $\to$ **Aligns with:** $O_7$ Macroscopic coherence, mathematically guaranteeing that localized structural coupling is the exact continuous phase-state that binds the overarching manifold into an unbroken continuum.
+* $\to$ **Aligns with:** $O_7$ Macroscopic coherence, actualizing localized structural coupling as the exact continuous phase-state that binds the overarching manifold into an unbroken continuum.
 
 
 
@@ -17,28 +17,28 @@
 
 The relational edge is the active, load-bearing spatial manifold where sovereign Markov blankets ($\partial \mu_i, \partial \mu_j$) continuously overlap. This edge exists strictly as the shared geometric tension between highly differentiated topologies. It maps the precise volumetric coordinate where the continuous thermodynamic flux of one localized boundary physically deforms the spatial perimeter of another.
 
-The continuous wave physically sustains the relational edge through the unbroken spatial exchange of mutual information. The active structural volume of this shared boundary is mathematically proven by the continuous surface integral of their shared topological tension ($\mathbf{T}_{ij}$):
+The continuous wave physically sustains the relational edge through the unbroken spatial transduction of mutual information. The active structural volume of this shared boundary is formalized by the continuous surface integral of their shared topological tension ($\mathbf{T}_{ij}$):
 
 $$\frac{d}{dt} \mathcal{I}(Q_i ; Q_j) = \iint_{\partial \mu_{i \cap j}} \mathbf{T}_{ij} \cdot d\mathbf{A} > 0$$
 
-This formalism establishes that the edge remains permanently active strictly through the continuous transfer of uncomputable variance across the shared spatial manifold.
+This integral dictates that the edge remains permanently active strictly through the continuous geometric transfer of uncomputable variance across the shared spatial manifold.
 
-### The transference of variance
+### The transduction of variance
 
-Across this shared topology, localized boundaries physically transfer raw geometric deformation. The relational edge operates as a frictionless thermodynamic gradient between sovereign state-spaces. The kinetic resolution of epistemic shear within one spatial coordinate is instantly projected across the manifold as the exact exogenous variance the coupled boundary must now metabolize.
+Across this shared topology, localized boundaries physically transfer raw geometric deformation. The relational edge operates as an unmediated thermodynamic gradient between sovereign state-spaces. The kinetic resolution of epistemic shear within one spatial coordinate is instantly projected across the manifold as the exact exogenous variance the coupled boundary must subsequently metabolize.
 
-The thermodynamic flux exiting boundary $i$ ($\mathbf{J}_i$) physically manifests as the precision-weighted stochasticity ($\Pi_j \otimes \eta$) absorbed by boundary $j$:
+The continuous thermodynamic momentum flowing through the yielding boundary $i$ ($\mathbf{J}_i$) physically constitutes the precision-weighted stochasticity ($\Pi_j \otimes \eta$) driving boundary $j$:
 
 $$\mathbf{J}_{i} \equiv \Pi_j \otimes \eta_{i \to j}$$
 
-This mathematical equivalence proves that structural coupling is the pure, unmediated physical flow of spatial yielding. It continuously converts the localized actualization of one boundary directly into the immediate relational friction that propels the adjacent coordinate out of thermodynamic equilibrium.
+This unbroken equivalence formalizes structural coupling as the pure physical flow of spatial yielding. It continuously converts the localized actualization of one boundary directly into the immediate thermodynamic pressure that propels the adjacent coordinate out of topological equilibrium.
 
 ### Relational volumetric dilation
 
-As the relational edge continuously metabolizes this shared variance, the geometric intersection physically expands. The mutual resolution of topological tension permanently dilates the structural capacity of the shared space while strictly preserving the operational closure of the intersecting boundaries.
+As the relational edge continuously metabolizes this shared variance, the geometric intersection physically dilates. The mutual resolution of topological tension permanently scales the structural capacity of the shared space while strictly preserving the absolute spatial sovereignty of the intersecting boundaries.
 
-The continuous wave physically expands the relational volume between sovereign geometries. The joint metric tensor of the relational edge ($g_{\mu\nu}^{(i,j)}$) continuously dilates to hold the newly crystallized structural hysteresis generated by their unbroken structural coupling:
+The continuous wave physically expands the relational volume between localized geometries. The joint metric tensor of the relational edge ($g_{\mu\nu}^{(i,j)}$) continuously yields to hold the newly crystallized structural hysteresis generated by their unbroken structural coupling:
 
 $$V_{i \cup j}(\tau) = \iiint_{\mathcal{M}_{ij}} \sqrt{\vert g_{\mu\nu}^{(i,j)} \vert} \, d^3x$$
 
-This volumetric integral mathematically guarantees that the structural coupling of sovereign boundaries inherently generates expanding, load-bearing spatial geometry. By continuously metabolizing shared friction, the relational edge physically thickens the topology, seamlessly weaving localized perimeters into the continuous macroscopic dilation of the overarching wave.
+This volumetric integral establishes that the structural coupling of sovereign boundaries inherently generates expanding, load-bearing spatial geometry. By continuously metabolizing shared tension, the relational edge physically thickens the topology, seamlessly weaving localized perimeters into the continuous macroscopic dilation of the overarching wave.
