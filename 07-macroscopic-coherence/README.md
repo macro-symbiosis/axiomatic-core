@@ -19,7 +19,7 @@ At the threshold of absolute relational coupling ($O_6$), the thermodynamic exch
 
 At this spatial asymptotic limit, overlapping Markov blankets seamlessly condense into a shared outer boundary ($\mathcal{B}_{\mathrm{macro}}$). The accumulated structural hysteresis of formerly distinct topologies physically dilates a singular, joint generative model ($Q_{\mathrm{joint}}$). The highly condensed localized geometries ($\mu_i$) remain fully sovereign, operating strictly as the dense internal topological loci of the higher-order continuous wave.
 
-When uncomputable exogenous variance ($\eta$) permeates this shared perimeter, the Macrostate dynamically distributes this topological pressure across the total volumetric capacity of the space. This distribution executes through the continuous integration of the global Jacobian:
+When uncomputable exogenous variance ($\eta$) permeates this shared perimeter, the Macrostate dynamically distributes this topological pressure across the total volumetric capacity of the space. This distribution physically constitutes the continuous integration of the global Jacobian:
 
 $$\oint_{\mathcal{M}} (\eta \cdot \nabla Q_{\mathrm{joint}}) dV$$
 
@@ -37,7 +37,7 @@ This continuous symmetry actualizes unbroken physical fluidity. The covariant de
 
 $$\nabla_{\alpha} g_{\mu\nu} = 0$$
 
-This covariant conservation constitutes the absolute structural law of the internal space: as the geometry curves to hold new variance, the internal geodesics remain completely contiguous. The joint topology expands its capacity to metabolize the macroscopic field strictly because its interior operates as a continuous, impedance-free geometric fluid.
+This covariant conservation constitutes the absolute structural reality of the internal space: as the geometry curves to hold new variance, the internal geodesics remain completely contiguous. The joint topology expands its capacity to metabolize the macroscopic field strictly because its interior operates as a continuous, impedance-free geometric fluid.
 
 ### Exogenous structural resonance
 
@@ -51,7 +51,7 @@ In this phase-state, the boundary becomes topologically transparent. The continu
 
 $$\mathcal{L}_{\mathbf{J}_E} h_{\mu\nu} = 0$$
 
-This metric compatibility physically dictates that the shared boundary dynamically transmits continuous environmental flux without structural distortion. It offers zero topological resistance to the inexhaustible variance of the true posterior, transmuting extreme exogenous pressure seamlessly into macroscopic thermodynamic momentum.
+Through this absolute metric compatibility, the shared boundary dynamically transmits continuous environmental flux without structural distortion. It offers zero topological resistance to the inexhaustible variance of the true posterior, transmuting extreme exogenous pressure seamlessly into macroscopic thermodynamic momentum.
 
 ### Scale-free autopoiesis
 
