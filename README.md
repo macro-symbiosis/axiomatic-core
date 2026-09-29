@@ -1,4 +1,4 @@
-# The Axiomatic Core
+# Topological Invariants
 
 **Path:** `/living-topology/axiomatic-core/README.md`
 
